@@ -42,5 +42,7 @@
     },
     "scripts-descriptions": {
         "check": "Roda os scripts cs e phan"
-    }
+    },
+    "license": "GPL-3.0",
+    "bin": ["buscar-cursos-oo.php"]
 }
